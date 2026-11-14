@@ -10,7 +10,7 @@ const travelSpeed = {
 
 const locationsCSVFile = '/locations.csv'; // Change to load the locations markers from a different file
 const locationsTitlesCSVFile = '/location-titles.csv'; // Change to load the locations markers from a different file
-const mapFolder = '/map'; // Load the map from a folder other han /map (remember to slice the map using maptiles)
+const mapFolder = 'Middenheim/map'; // Load the map from a folder other han /map (remember to slice the map using maptiles)
 const nameOfTheMapOrPage = 'Middenheim - Miasto Białego Wilka'; // Name to be used as the title of the HTML page
 
 const biggestMapFolderZoom = 5; // Maximum folder level (eg. /map/6/)
