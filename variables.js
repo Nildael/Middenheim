@@ -16,7 +16,7 @@ const nameOfTheMapOrPage = 'Middenheim - Miasto Białego Wilka'; // Name to be u
 const biggestMapFolderZoom = 5; // Maximum folder level (eg. /map/6/)
 const shortestMapFolderZoom = 0; // Minimum folder level (eg. /map/1/)
 const biggestZoom = 5; // Maximum zoom level, if higher than biggestMapFolderZoom it will zoom in the image ignoring quality
-const lowestZoom = 2; // Lowest possible zoom
+const lowestZoom = 3; // Lowest possible zoom
 
 const mapCenter = [-130, 123]; // Coordinates for the center of the map
 const initialPartyPositionOnMap = [-140, 150];
