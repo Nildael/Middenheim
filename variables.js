@@ -11,7 +11,7 @@ const travelSpeed = {
 const locationsCSVFile = '/locations.csv'; // Change to load the locations markers from a different file
 const locationsTitlesCSVFile = '/location-titles.csv'; // Change to load the locations markers from a different file
 const mapFolder = '/map'; // Load the map from a folder other han /map (remember to slice the map using maptiles)
-const nameOfTheMapOrPage = 'RPG Map'; // Name to be used as the title of the HTML page
+const nameOfTheMapOrPage = 'Middenheim - Miasto Białego Wilka'; // Name to be used as the title of the HTML page
 
 const biggestMapFolderZoom = 6; // Maximum folder level (eg. /map/6/)
 const shortestMapFolderZoom = 3; // Minimum folder level (eg. /map/1/)
