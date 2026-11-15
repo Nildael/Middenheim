@@ -26,4 +26,4 @@ const showLocationFinderMarker = true; // Used to get the lat and long from the 
 const travelVelocityRulesLink = "https://roll20.net/compendium/dnd5e/Movement#content";
 
 const mapSouthWest = [-210, 255]; // Leave empty to remove map bounds, or add the value of for your map (use the showLocationFinderMarker if needed)
-const mapNorthEast = [-55, 10]; // Leave empty to remove map bounds, or add the value of for your map (use the showLocationFinderMarker if needed)
+const mapNorthEast = [209, 0]; // Leave empty to remove map bounds, or add the value of for your map (use the showLocationFinderMarker if needed)
